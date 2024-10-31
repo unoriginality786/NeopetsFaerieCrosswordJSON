@@ -1,6 +1,26 @@
 {
 	"clues": [
 		{
+			"clue": "CLUE FORMAT",
+			"answer": "ANSWER"
+		},
+		{
+			"clue": "Triangle of ____; Moltaran delicacy",
+			"answer": "HAM"
+		},
+		{
+			"clue": "Enemy of the Snuffly in Let It Slide",
+			"answer": "GABAR"
+		},
+		{
+			"clue": "Count his potatoes",
+			"answer": "ALTON"
+		},
+		{
+			"clue": "Colour of the Poogle Mohawk",
+			"answer": "BLUE"
+		},
+		{
 			"clue": "Eau De _____ is a popular brand of Perfume",
 			"answer": "NEO"
 		},
