@@ -4,7 +4,11 @@
 			"clue": "CLUE FORMAT",
 			"answer": "ANSWER"
 		},
-		{
+	        {
+			"clue": "Draik egg with an eyepatch",
+			"answer": "PIRATE"
+		},
+                {
 			"clue": "Costume of the Halloween Teemyte",
 			"answer": "VAMPIRE"
 		},
