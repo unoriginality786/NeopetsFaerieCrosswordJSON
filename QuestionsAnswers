@@ -1,8 +1,28 @@
 {
 	"clues": [
 		{
-			"clue": "CLUE FORMAT",
+			"clue": "BLANK QUESTION",
 			"answer": "ANSWER"
+		},
+		{
+			"clue": "BLANK QUESTION",
+			"answer": "ANSWER"
+		},
+		{
+			"clue": "BLANK QUESTION",
+			"answer": "ANSWER"
+		},
+		{
+			"clue": "BLANK QUESTION",
+			"answer": "ANSWER"
+		},
+		{
+			"clue": "BLANK QUESTION",
+			"answer": "ANSWER"
+		},
+		{
+			"clue": " Earth faerie in Extreme Faerie Cloud Racers",
+			"answer": "ILLUSEN"
 		},
 	        {
 			"clue": "Draik egg with an eyepatch",
