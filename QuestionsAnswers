@@ -4,9 +4,13 @@
 			"clue": "BLANK QUESTION",
 			"answer": "ANSWER"
 		},
+	        {
+			"clue": "Creator of the Marvelous Kau Potion",
+			"answer": "KAUVARA"
+		},
 		{
-			"clue": "BLANK QUESTION",
-			"answer": "ANSWER"
+			"clue": "Fyora Day is the first holiday in the month of ___",
+			"answer": "RELAXING"
 		},
 		{
 			"clue": "Essential part of the Kyrii Fashionista outfit",
