@@ -1,8 +1,16 @@
 {
 	"clues": [
 		{
-			"clue": "BLANK QUESTION",
-			"answer": "ANSWER"
+			"clue": "QUES",
+			"answer": "A"
+		},
+	        {
+			"clue": "Enemy of Flotsams everywhere",
+			"answer": "JETSAM"
+		},
+	        {
+			"clue": "Cherries ____; Truggdon's favourite food",
+			"answer": "JUBALEE"
 		},
 	        {
 			"clue": "Creator of the Marvelous Kau Potion",
