@@ -1,8 +1,42 @@
 {
 	"clues": [
 		{
-			"clue": "QUES",
-			"answer": "A"
+			"clue": "Example question format",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "Example question format",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "Example question format",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "Example question format",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "Example question format",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "Example question format",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "Species of Sssscratchcard Sidney",
+			"answer": "NIMMO"
+		},
+		{
+			"clue": "Every witch should have one; Sophie has a Meowclops",
+			"answer": "FAMILIAR"
 		},
 	        {
 			"clue": "Enemy of Flotsams everywhere",
