@@ -1,5 +1,30 @@
 {
 	"clues": [
+
+		{
+			"clue": "QUESTION",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "QUESTION",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "QUESTION",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "QUESTION",
+			"answer": "ANSWER"
+		},
+
+		{
+			"clue": "What Seabreeze Lotion is made with",
+			"answer": "SEASALT"
+		},
 		{
 			"clue": "AAA ___ and Abigail ___",
 			"answer": "AVINROO"
