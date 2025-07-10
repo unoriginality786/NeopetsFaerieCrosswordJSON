@@ -1,26 +1,34 @@
 {
 	"clues": [
 
-		{
+                {
+                        "clue": "EXAMPLE";
+                        "answer": "EXAMPLE";
+                },
+                {
+                        "clue": "EXAMPLE";
+                        "answer": "EXAMPLE";
+                },
+                {
+                        "clue": "EXAMPLE";
+                        "answer": "EXAMPLE";
+                },
+                {
 			"clue": "Old ___ Fence; used to be quite lovely",
 			"answer": "Picket"
 		},
-
 		{
 			"clue": "Elder; announces the new Gadgadsbogen fruits",
 			"answer": "CINTOPANGO"
 		},
-
 		{
 			"clue": "Colour of the Evening Draik Dress",
 			"answer": "BLUE"
 		},
-
 		{
 			"clue": "Trophy from the Award Show Play Set",
 			"answer": "NEOPIES"
 		},
-
 		{
 			"clue": "What Seabreeze Lotion is made with",
 			"answer": "SEASALT"
