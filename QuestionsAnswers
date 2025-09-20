@@ -1,6 +1,26 @@
 {
 	"clues": [
                 {
+                        "clue": "QUESTION EXAMPLE",
+                        "answer": "ANSWER EXAMPLE"
+                },
+                {
+                        "clue": "QUESTION EXAMPLE",
+                        "answer": "ANSWER EXAMPLE"
+                },
+                {
+                        "clue": "QUESTION EXAMPLE",
+                        "answer": "ANSWER EXAMPLE"
+                },
+                {
+                        "clue": "Lily Pad Notebook; great when you need a ___ of paper",
+                        "answer": "PAD"
+                },
+                {
+                        "clue": "Can be ___; Droolik Flying Disc",
+                        "answer": "THROWN"
+                },
+                {
                         "clue": "Bobblehead Flower; from the Festival of ___",
                         "answer": "NEGGS"
                 },
