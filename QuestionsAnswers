@@ -1,16 +1,16 @@
 {
 	"clues": [
                 {
-                        "clue": "EXAMPLE";
-                        "answer": "EXAMPLE";
+                        "clue": "EXAMPLE",
+                        "answer": "EXAMPLE"
                 },
                 {
                         "clue": "Vegetable; Mutant Powtry",
                         "answer": "BROCCOLI"
                 },
                 {
-                        "clue": "Contest; funny pictures that need a joke";
-                        "answer": "CAPTION";
+                        "clue": "Contest; funny pictures that need a joke",
+                        "answer": "CAPTION"
                 },
                 {
                         "clue": "The ____ Citadel",
