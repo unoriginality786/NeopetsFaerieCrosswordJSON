@@ -1,106 +1,110 @@
 {
 	"clues": [
-                {
-                        "clue": "EXAMPLE",
-                        "answer": "EXAMPLE"
-                },
-                {
-                        "clue": "Vegetable; Mutant Powtry",
-                        "answer": "BROCCOLI"
-                },
-                {
-                        "clue": "Contest; funny pictures that need a joke",
-                        "answer": "CAPTION"
-                },
-                {
-                        "clue": "The ____ Citadel",
-                        "answer": "DARIGAN"
-                },
-                {
-                        "clue": "Bendy Sword of ___; just the thing for fake battles",
-                        "answer": "SKARDSEN"
-                },
-                {
-                        "clue": "Lily Pad Notebook; great when you need a ___ of paper",
-                        "answer": "PAD"
-                },
-                {
-                        "clue": "Can be ___; Droolik Flying Disc",
-                        "answer": "THROWN"
-                },
-                {
-                        "clue": "Bobblehead Flower; from the Festival of ___",
-                        "answer": "NEGGS"
-                },
-                {
-                        "clue": "Doctor; self-styled greatest villain of Neopia",
-                        "answer": "SLOTH"
-                },
-                {
-                        "clue": "Where the Seece is found, unlike the Miamouse",
-                        "answer": "MERIDELL"
-                },
-                {
-                        "clue": "Defeat this king in Castle Battles",
-                        "answer": "SKARL"
-                },
-                {
-                        "clue": "Moehog with carrots for tusks",
-                        "answer": "SNOW"
-                },
-                {
-                        "clue": "___ von Roo; vampiric Blumaroo",
-                        "answer": "COUNT"
-                },
-                {
-                        "clue": "___ Apple; the only Apple with a mustache",
-                        "answer": "VILLAINOUS"
-                },
-                {
-                        "clue": "City ruled by King Kelpbeard",
-                        "answer": "MARAQUA"
-                },
-                {
-                        "clue": "Learn ___ with Language Flash Cards",
-                        "answer": "TYRANNIAN"
-                },
-                {
-                        "clue": "Milky Moo Ice Lolly; milk plus ___",
-                        "answer": "LICORICE"
-                },
-                {
-                        "clue": "Where to buy a Buried Scroll",
-                        "answer": "DESERT"
-                },
-                {
-                        "clue": "Kougra in Top Chop",
-                        "answer": "KATSUO"
-                },
-                {
-                        "clue": "Draik wearable set with a moustache",
-                        "answer": "BOXER"
-                },
-                {
-                        "clue": "Neopets can be happy, sad, or...",
-                        "answer": "ANGRY"
-                },
-                {
-                        "clue": "___ Danger; Petpets bring back treasures",
-                        "answer": "GRAVE"
-                },
-                {
-                        "clue": "Colour of a Moehug",
-                        "answer": "PURPLE"
-                },
-                {
-                        "clue": "Darigan's Grarrl servant",
-                        "answer": "GALGARRATH"
-                },
-                {
-                        "clue": "Petpet featured in Tales of Autumn",
-                        "answer": "BIKIWAN"
-                },
-                {
+		{
+			"clue": "EXAMPLE",
+			"answer": "EXAMPLE"
+		},
+		{
+			"clue": "Use this to poke the meteor on Kreludor",
+			"answer": "STICK"
+		},
+		{
+			"clue": "Vegetable; Mutant Powtry",
+			"answer": "BROCCOLI"
+		},
+		{
+			"clue": "Contest; funny pictures that need a joke",
+			"answer": "CAPTION"
+		},
+		{
+			"clue": "The ____ Citadel",
+			"answer": "DARIGAN"
+		},
+		{
+			"clue": "Bendy Sword of ___; just the thing for fake battles",
+			"answer": "SKARDSEN"
+		},
+		{
+			"clue": "Lily Pad Notebook; great when you need a ___ of paper",
+			"answer": "PAD"
+		},
+		{
+			"clue": "Can be ___; Droolik Flying Disc",
+			"answer": "THROWN"
+		},
+		{
+			"clue": "Bobblehead Flower; from the Festival of ___",
+			"answer": "NEGGS"
+		},
+		{
+			"clue": "Doctor; self-styled greatest villain of Neopia",
+			"answer": "SLOTH"
+		},
+		{
+			"clue": "Where the Seece is found, unlike the Miamouse",
+			"answer": "MERIDELL"
+		},
+		{
+			"clue": "Defeat this king in Castle Battles",
+			"answer": "SKARL"
+		},
+		{
+			"clue": "Moehog with carrots for tusks",
+			"answer": "SNOW"
+		},
+		{
+			"clue": "___ von Roo; vampiric Blumaroo",
+			"answer": "COUNT"
+		},
+		{
+			"clue": "___ Apple; the only Apple with a mustache",
+			"answer": "VILLAINOUS"
+		},
+		{
+			"clue": "City ruled by King Kelpbeard",
+			"answer": "MARAQUA"
+		},
+		{
+			"clue": "Learn ___ with Language Flash Cards",
+			"answer": "TYRANNIAN"
+		},
+		{
+			"clue": "Milky Moo Ice Lolly; milk plus ___",
+			"answer": "LICORICE"
+		},
+		{
+			"clue": "Where to buy a Buried Scroll",
+			"answer": "DESERT"
+		},
+		{
+			"clue": "Kougra in Top Chop",
+			"answer": "KATSUO"
+		},
+		{
+			"clue": "Draik wearable set with a moustache",
+			"answer": "BOXER"
+		},
+		{
+			"clue": "Neopets can be happy, sad, or...",
+			"answer": "ANGRY"
+		},
+		{
+			"clue": "___ Danger; Petpets bring back treasures",
+			"answer": "GRAVE"
+		},
+		{
+			"clue": "Colour of a Moehug",
+			"answer": "PURPLE"
+		},
+		{
+			"clue": "Darigan's Grarrl servant",
+			"answer": "GALGARRATH"
+		},
+		{
+			"clue": "Petpet featured in Tales of Autumn",
+			"answer": "BIKIWAN"
+		},
+		{
 			"clue": "Old ___ Fence; used to be quite lovely",
 			"answer": "PICKET"
 		},
@@ -162,7 +166,7 @@
 		},
 		{
 			"clue": "Cherry lollypop with a surprise inside",
-			"answer": "ABOOAGLA"
+			"answer": "ABOOGALA"
 		},
 		{
 			"clue": "Eight-___; for that pixellated look",
@@ -348,32 +352,26 @@
 			"clue": "Least valuable berry in Turmac Roll",
 			"answer": "SNIDDBERRY"
 		},
-
 		{
 			"clue": "Clothing worn by the Christmas Pandaphant",
 			"answer": "HAT"
 		},
-
 		{
 			"clue": "Clothing of Halloween Antwerph",
 			"answer": "CLOAK"
 		},
-
 		{
 			"clue": "Light of Day; good book for those afraid of the ___",
 			"answer": "DARK"
 		},
-
 		{
 			"clue": "Favourite colour of Fyora",
 			"answer": "PINK"
 		},
-
 		{
 			"clue": "Calendar; only in December",
 			"answer": "ADVENT"
 		},
-
 		{
 			"clue": "Species of Sssscratchcard Sidney",
 			"answer": "NIMMO"
@@ -382,15 +380,15 @@
 			"clue": "Every witch should have one; Sophie has a Meowclops",
 			"answer": "FAMILIAR"
 		},
-	        {
+		{
 			"clue": "Enemy of Flotsams everywhere",
 			"answer": "JETSAM"
 		},
-	        {
+		{
 			"clue": "Cherries ____; Truggdon's favourite food",
 			"answer": "JUBALEE"
 		},
-	        {
+		{
 			"clue": "Creator of the Marvelous Kau Potion",
 			"answer": "KAUVARA"
 		},
@@ -426,11 +424,11 @@
 			"clue": " Earth faerie in Extreme Faerie Cloud Racers",
 			"answer": "ILLUSEN"
 		},
-	        {
+		{
 			"clue": "Draik egg with an eyepatch",
 			"answer": "PIRATE"
 		},
-                {
+		{
 			"clue": "Costume of the Halloween Teemyte",
 			"answer": "VAMPIRE"
 		},
@@ -446,7 +444,7 @@
 			"clue": "Lisha's Species",
 			"answer": "AISHA"
 		},
-                {
+		{
 			"clue": "A brave young Bori",
 			"answer": "ARMIN"
 		},
