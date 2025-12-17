@@ -13,6 +13,14 @@
             "answer": "ANSWER"
         },
         {
+            "clue": "Clue Text",
+            "answer": "ANSWER"
+        },
+        {
+            "clue": "___ Curses; make a field of crops wither!",
+            "answer": "ADVANCED"
+        },
+        {
             "clue": "Underground land with molten lava",
             "answer": "MOLTARA"
         },
